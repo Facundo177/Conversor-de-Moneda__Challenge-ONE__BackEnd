@@ -1,0 +1,4 @@
+2024-04-22T03:06:19.696256600: El valor 100,00 [USD] corresponde a 86475,00 [ARS]
+2024-04-22T03:06:24.902595800: El valor 500,00 [ARS] corresponde a 0,58 [USD]
+2024-04-22T03:07:28.283690200: El valor 200,00 [CLP] corresponde a 179,86 [ARS]
+2024-04-22T03:09:41.250401700: El valor 5000,00 [BOB] corresponde a 722,00 [USD]
