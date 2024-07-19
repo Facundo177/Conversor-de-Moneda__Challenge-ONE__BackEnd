@@ -43,3 +43,11 @@ Ya realizada la conversión, se guardará junto a la fecha en un archivo txt com
 - Registros con marca de tiempo utilizando java.time
 - Personalización de respuestas a diversas Excepciones
 - Aplicación de los conceptos de abstracción, encapsulamiento y polimorfismo.
+
+     <br />
+   <br />
+<div align="center">
+  <h2> Badge del Challenge </h2> 
+  <img src="https://github.com/user-attachments/assets/b320c370-f8a8-43df-8b42-1237d283ec05">
+</div>
+
